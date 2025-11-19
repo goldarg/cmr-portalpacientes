@@ -1,0 +1,5 @@
+{
+  "name": "Portal del Paciente - SaludConnect",
+  "description": "Un portal accesible para pacientes que permite la consulta de estudios médicos utilizando autenticación simplificada por DNI.",
+  "requestFramePermissions": []
+}
